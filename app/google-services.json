@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608223914764",
+    "project_id": "movie-app-create",
+    "storage_bucket": "movie-app-create.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608223914764:android:8ac89f934f5b441c7b7729",
+        "android_client_info": {
+          "package_name": "com.sandhya.movieappcreate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608223914764-o7mu9tk9ni7h3lfbe57rsr4mr5dekaai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVN8hhD37KXGwX6XCFGrA17N-QPPt48is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608223914764-o7mu9tk9ni7h3lfbe57rsr4mr5dekaai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
